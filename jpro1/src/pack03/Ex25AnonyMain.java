@@ -13,6 +13,7 @@ public class Ex25AnonyMain {
 		System.out.println(saram2.getIr());
 		
 		System.out.println("write by fix");
+		System.out.println("add by fix ");
 
 	}
 
