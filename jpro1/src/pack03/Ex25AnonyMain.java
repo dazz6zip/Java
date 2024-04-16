@@ -14,6 +14,8 @@ public class Ex25AnonyMain {
 		
 		System.out.println("write by fix");
 		System.out.println("add by main");
+		System.out.println("add by fix ");
+
 
 	}
 
