@@ -11,6 +11,8 @@ public class Ex25AnonyMain {
 		Ex25Person person = new Ex25Person();
 		Ex25Saram saram2 = person.getSaram();
 		System.out.println(saram2.getIr());
+		
+		System.out.println("write by fix");
 
 	}
 
