@@ -24,7 +24,7 @@ public class Ex37ThreadTest01 extends Thread { // java.lang 은 import 생략 �
 		}
 	}
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 
 		try {
 			// process 단위의 실행 (잘 사용하지 않음)
